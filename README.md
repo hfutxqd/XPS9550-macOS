@@ -15,12 +15,12 @@ This repository contains **my own files** on the installation and configuration 
 ## My laptop
 **Dell XPS 9550**
 
-* i5-6300HQ/HM170
+* i7-6700HQ/HM170
 * Nvidia GTX960M / HD530
-* 1920x1080 (FHD)
+* 3840x2160 (4K)
 * DDR4 2133 16G (8G x 2)
 * Dell wireless 1830 (BCM43602 + BCM20703A1 )
-* 512GB NVMe SSD (Samsung SM951)
+* 512GB NVMe SSD (Samsung PM951)
 
 ## Status
 

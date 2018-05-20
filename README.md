@@ -2,10 +2,6 @@
 This repository contains **my own files** on the installation and configuration of macOS High Sierra (10.13.4) on the Dell XPS 15 (9550)
 
 * Thanks darkhandz for [his High Sierrra guide](https://github.com/darkhandz/XPS15-9550-High-Sierra). Please read darkhandz's guide before you use my files.
-* Use `MacBookPro13,3` SMBIOS, much thanks for @syscl.
-  * Note that you need to modify `AppleGraphicsDevicePolicy.kext` to make external monitors work.
-  * The model identifier is also correct now.
-  * I hide my serial number as `C02*****GTFN`, you may generate it by your own.
 * `Caps` and `Left-Ctrl` is exchanged in `VoodoooPS2`, you can modify it if you don't like this keyboard layout.
 
 ## Structure
